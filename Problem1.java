@@ -24,6 +24,8 @@ class Solution {
                 minPenalty = currPenalty;
             }
         }
+
+        
         return result;
     }
 }
